@@ -108,7 +108,7 @@ hobbies, movies{
     border-right: 1px solid #ecc6a0; 
     }
 
-    h1 {
+    .main-head {
     color: rgb(86, 40, 19);
     padding-top: 12%;
     font-size: 220%;  
