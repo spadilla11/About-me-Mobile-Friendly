@@ -72,7 +72,7 @@ hobbies, movies{
     left: 0;
 }
 
-.nav-bar ul{
+.nav-bar .nav-list{
     background-color: rgb(86, 40, 19);
     font-size: 160%;
     font-family: 'sans-serif';
@@ -81,7 +81,7 @@ hobbies, movies{
     margin: 0;
 }
 
-.nav-bar a{
+.nav-bar .a{
     display: block;
     color: beige;
     padding: 8px;
