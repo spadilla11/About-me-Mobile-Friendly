@@ -91,7 +91,7 @@ hobbies, movies{
 
 @media screen and (max-width: 600px) {
     
-    .nav-bar ul{
+    .nav-bar .ul{
     background-color: rgb(86, 40, 19);
     font-size: 130%;
     font-family: 'sans-serif';
@@ -100,7 +100,7 @@ hobbies, movies{
     margin: 0;
     }
 
-    .nav-bar a{
+    .nav-bar .a{
     display: block;
     color: beige;
     padding: 5px;
